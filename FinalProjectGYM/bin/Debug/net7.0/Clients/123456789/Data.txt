@@ -1,0 +1,1 @@
+{"Height":"1.2","Weight":"40","Bmi":27.77777777777778,"IsActive":false,"Id":"123456789","Name":"abc","LastName":"def","Gender":"f","Date":"12/12/2021","City":"gf","Address":"dfdsf","Phone":"0532","Email":"s@s"}

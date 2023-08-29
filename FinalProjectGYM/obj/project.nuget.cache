@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8EQwqhc7r1gdsatfb6iqm5BGpl9yBBo1z2Dl5iPPdny1NH4ecELfiFy6BJCgUzBVpXaOG5MCxcJUDB7xTlfMA==",
+  "success": true,
+  "projectFilePath": "/Users/yosypasha/Projects/FinalProjectGYM/FinalProjectGYM/FinalProjectGYM.csproj",
+  "expectedPackageFiles": [
+    "/Users/yosypasha/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

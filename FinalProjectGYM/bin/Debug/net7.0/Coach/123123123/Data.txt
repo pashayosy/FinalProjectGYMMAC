@@ -1,0 +1,1 @@
+{"BankAccount":{"BankName":"dsadas","BankBranch":"123","BankAccountNumber":"123"},"Profession":"hjkl;","IsActive":true,"Id":"123123123","Name":"qwe","LastName":"asd","Gender":"f","Date":"12/12/1212","City":"dwsa","Address":"dsav","Phone":"03221","Email":"dsa@dsa"}
