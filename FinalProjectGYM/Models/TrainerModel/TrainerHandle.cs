@@ -15,7 +15,10 @@ namespace FinalProjectGYM.Models.TrainerModel
         public static void TrainerCreate()
         {
             string id;
-            while (FileHandle.IsTrainerExist(id = CorrectInput("\n1.ID NUMBER:\nPlease enter ID number (9 digits).", PersonValidation.IsCorrectId))) ;
+            while (FileHandle.IsTrainerExist(id = CorrectInput("\n1.ID NUMBER:\nPlease enter ID number (9 digits).", PersonValidation.IsCorrectId)))
+            {
+                Console.WriteLine($"This id :{id} is exist, Choose a different one");
+            }
             string name = CorrectInput("\n2.FIRST NAME:\nPlease enter First name.", PersonValidation.IsCorrectName);
             string lastName = CorrectInput("\n3.LAST NAME:\nPlease enter Last name.", PersonValidation.IsCorrectLastName);
             char gender = CorrectInput("\n4.GENDER:\nPlease enter gender(F / M / O).", PersonValidation.IsCorrectGender)[0];
